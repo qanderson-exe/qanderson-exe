@@ -1,7 +1,10 @@
 ## Hi there 👋
 My name is Quamez, an aspiring software developer that's always honing their knowledge and skills! The languages that I've learned in my 14+ years of experience are: Java, Python, C++, C#, Javascript, SQLite, and HTML. On this page, you'll find several projects that I've worked on in the past:
+
 [Stock Market Bot](https://github.com/qanderson-exe/Stock-Market-Bot)
+
 [Dog Breed Identifier](https://github.com/qanderson-exe/Tensorflow-Dog-Breed-Identification)
+
 [Brain Tumor Detection](https://github.com/qanderson-exe/AI-Brain-Tumor-Detection)
 <!--
 **qanderson-exe/qanderson-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
